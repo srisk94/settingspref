@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    -<string-array name="array_list_preference_entries">
+
+    <item>Daily</item>
+
+    <item>weekly</item>
+
+    <item>Monthly</item>
+
+    <item>yearly</item>
+
+</string-array>
+
+
+    -<string-array name="array_list_preference_entry_values">
+
+    <item>Daily</item>
+
+    <item>weekly</item>
+
+    <item>Monthly</item>
+
+    <item>Yearly</item>
+
+</string-array>
+</resources>

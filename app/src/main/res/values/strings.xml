@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SettingsPref</string>
+    <string name="str_etp_edittext_preference1_title">Password</string>
+</resources>

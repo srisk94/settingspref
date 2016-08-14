@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+<PreferenceCategory android:title="Settings">
+    <EditTextPreference
+        android:title="@string/str_etp_edittext_preference1_title"
+        android:key="etp_edittext_preference1"/>
+
+</PreferenceCategory>
+    <PreferenceCategory android:title="SECURITY SETTINGSS">
+        <CheckBoxPreference
+            android:title="Screen lock"
+            android:key="cbt_checkbox_Preference"/>
+        <ListPreference android:title="Reminder for updation"
+            android:key="lp_list_preference"
+            android:entryValues="@array/array_list_preference_entry_values"
+            android:entries="@array/array_list_preference_entries"
+            />
+    </PreferenceCategory>
+</PreferenceScreen>
